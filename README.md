@@ -1,8 +1,8 @@
 > <h1>CNN Train</h1>
-[![GitHub license](https://img.shields.io/github/license/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/network)
-[![GitHub issues](https://img.shields.io/github/issues/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/issues)
+[![GitHub license](https://img.shields.io/github/license/DanAzevedo/cnn-train?style=for-the-badge)](https://github.com/DanAzevedo/cnn-train/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/DanAzevedo/cnn-train?style=for-the-badge)](https://github.com/DanAzevedo/cnn-train/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/DanAzevedo/cnn-train?style=for-the-badge)](https://github.com/DanAzevedo/cnn-train/network)
+[![GitHub issues](https://img.shields.io/github/issues/DanAzevedo/cnn-train?style=for-the-badge)](https://github.com/DanAzevedo/cnn-train/issues)
 
 <p>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20TEST&color=blueviolet&style=for-the-badge"/>
