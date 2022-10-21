@@ -1,8 +1,8 @@
 > <h1>CNN Train</h1>
-[![GitHub license](https://img.shields.io/github/license/DanAzevedo/cnn-train?style=for-the-badge)](https://github.com/DanAzevedo/cnn-train/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/DanAzevedo/cnn-train?style=for-the-badge)](https://github.com/DanAzevedo/cnn-train/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/DanAzevedo/cnn-train?style=for-the-badge)](https://github.com/DanAzevedo/cnn-train/network)
-[![GitHub issues](https://img.shields.io/github/issues/DanAzevedo/cnn-train?style=for-the-badge)](https://github.com/DanAzevedo/cnn-train/issues)
+[![GitHub license](https://img.shields.io/github/license/DanAzevedo/jumping-jacks-counter?style=for-the-badge)](https://github.com/DanAzevedo/jumping-jacks-counter/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/DanAzevedo/jumping-jacks-counter?style=for-the-badge)](https://github.com/DanAzevedo/jumping-jacks-counter/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/DanAzevedo/jumping-jacks-counter?style=for-the-badge)](https://github.com/DanAzevedo/jumping-jacks-counter/network)
+[![GitHub issues](https://img.shields.io/github/issues/DanAzevedo/jumping-jacks-counter?style=for-the-badge)](https://github.com/DanAzevedo/jumping-jacks-counter/issues)
 
 <p>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20TEST&color=blueviolet&style=for-the-badge"/>
